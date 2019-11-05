@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CommunicatorMsgBroker", "CommunicatorMsgBroker\", "{8DB42EAC-958E-48FA-B36E-A5AE27C21BD1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63668"
+		Debug.AspNetCompiler.PhysicalPath = "CommunicatorMsgBroker\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63668\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63668"
+		Release.AspNetCompiler.PhysicalPath = "CommunicatorMsgBroker\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63668\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63668"
+		SlnRelativePath = "CommunicatorMsgBroker\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB42EAC-958E-48FA-B36E-A5AE27C21BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB42EAC-958E-48FA-B36E-A5AE27C21BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DB35B2-0A16-4CBF-AE09-77378B399462}
+	EndGlobalSection
+EndGlobal

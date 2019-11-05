@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git\\SystemsCommunicator\\SystemsCommunicator\\CustomerConsole\\CustomerConsole\\CustomerConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\git\\SystemsCommunicator\\SystemsCommunicator\\CustomerConsole\\CustomerConsole\\CustomerConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\SystemsCommunicator\\SystemsCommunicator\\CustomerConsole\\CustomerConsole\\CustomerConsole.csproj",
+        "projectName": "CustomerConsole",
+        "projectPath": "C:\\git\\SystemsCommunicator\\SystemsCommunicator\\CustomerConsole\\CustomerConsole\\CustomerConsole.csproj",
+        "packagesPath": "C:\\Users\\edcg\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\SystemsCommunicator\\SystemsCommunicator\\CustomerConsole\\CustomerConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.dll.config
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.deps.json
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.runtimeconfig.json
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.runtimeconfig.dev.json
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.dll
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.csprojAssemblyReference.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.csproj.CoreCompileInputs.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.AssemblyInfoInputs.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.AssemblyInfo.cs
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\bin\Debug\netcoreapp2.2\OrderReceiverConsole.pdb
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.dll
+C:\git\SystemsCommunicator\SystemsCommunicator\OrderReceiverConsole\OrderReceiverConsole\obj\Debug\netcoreapp2.2\OrderReceiverConsole.pdb

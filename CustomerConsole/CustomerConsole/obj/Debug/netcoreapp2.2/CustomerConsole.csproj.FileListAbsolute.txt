@@ -1,0 +1,12 @@
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.deps.json
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.runtimeconfig.json
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.runtimeconfig.dev.json
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.dll
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.pdb
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.csprojAssemblyReference.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.csproj.CoreCompileInputs.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.AssemblyInfoInputs.cache
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.AssemblyInfo.cs
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.dll
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\obj\Debug\netcoreapp2.2\CustomerConsole.pdb
+C:\git\SystemsCommunicator\SystemsCommunicator\CustomerConsole\CustomerConsole\bin\Debug\netcoreapp2.2\CustomerConsole.dll.config
